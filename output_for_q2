@@ -1,0 +1,285 @@
+Regression: Record Publish: GEWQ .Q
+Regression:   wTradePrice | price | * | 0.25
+Regression:   wTradeVolume | quantity | * | 16
+Regression: Record Publish: GEWQ .X
+Regression:   wTradePrice | price | * | 0.25
+Regression:   wTradeVolume | quantity | * | 84
+Regression: Record Publish: GEWQ .A
+Regression:   wTradePrice | price | * | 0.25
+Regression:   wTradeVolume | quantity | * | 16
+Regression: Record Publish: GEWQ .W
+Regression:   wTradePrice | price | * | 0.25
+Regression:   wTradeVolume | quantity | * | 100
+Regression: Record Publish: GEWQ .A
+Regression:   wTradePrice | price | * | 0.25
+Regression:   wTradeVolume | quantity | * | 84
+Regression: Record Publish: GEWQ .B
+Regression:   wTradePrice | price | * | 0.25
+Regression:   wTradeVolume | quantity | * | 100
+Regression: Record Publish: GEWQ .X
+Regression:   wTradePrice | price | * | 0.25
+Regression:   wTradeVolume | quantity | * | 100
+Regression: Record Publish: GCZQ .W
+Regression:   wTradePrice | price | * | 1.30
+Regression:   wTradeVolume | quantity | * | 9
+Regression: Record Publish: GEWQ .N
+Regression:   wTradePrice | price | * | 0.25
+Regression:   wTradeVolume | quantity | * | 10
+Regression: Record Publish: GEWQ .N
+Regression:   wTradePrice | price | * | 0.25
+Regression:   wTradeVolume | quantity | * | 20
+Regression: Record Publish: GEWQ .N
+Regression:   wTradePrice | price | * | 0.25
+Regression:   wTradeVolume | quantity | * | 4
+Regression: Record Publish: GEWQ .N
+Regression:   wTradePrice | price | * | 0.25
+Regression:   wTradeVolume | quantity | * | 50
+Regression: Record Publish: GEWQ .X
+Regression:   wTradePrice | price | * | 0.25
+Regression:   wTradeVolume | quantity | * | 16
+Regression: Record Publish: GOPD .A
+Regression:   wTradePrice | price | * | 1.10
+Regression:   wTradeVolume | quantity | * | 2
+Regression: Record Publish: GEWD .X
+Regression:   wTradePrice | price | * | 0.10
+Regression:   wTradeVolume | quantity | * | 174
+Regression: Record Publish: GOPQ .W
+Regression:   wTradePrice | price | * | 9.50
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GOPP .Q
+Regression:   wTradePrice | price | * | 0.61
+Regression:   wTradeVolume | quantity | * | 10
+Regression: Record Publish: GOPQ .Y
+Regression:   wTradePrice | price | * | 4.32
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GOPQ .Y
+Regression:   wTradePrice | price | * | 6.42
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GOPQ .Y
+Regression:   wTradePrice | price | * | 2.75
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GOPQ .Y
+Regression:   wTradePrice | price | * | 2.75
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GEE .X
+Regression:   wTradePrice | price | * | 0.25
+Regression:   wTradeVolume | quantity | * | 100
+Regression: Record Publish: GPYD .Q
+Regression:   wTradePrice | price | * | 26.45
+Regression:   wTradeVolume | quantity | * | 4
+Regression: Record Publish: GPYG .N
+Regression:   wTradePrice | price | * | 7.80
+Regression:   wTradeVolume | quantity | * | 10
+Regression: Record Publish: GEWD .X
+Regression:   wTradePrice | price | * | 0.96
+Regression:   wTradeVolume | quantity | * | 25
+Regression: Record Publish: GOPP .X
+Regression:   wTradePrice | price | * | 0.10
+Regression:   wTradeVolume | quantity | * | 10
+Regression: Record Publish: GEWQ .Y
+Regression:   wTradePrice | price | * | 0.25
+Regression:   wTradeVolume | quantity | * | 100
+Regression: Record Publish: GCZP .W
+Regression:   wTradePrice | price | * | 0.71
+Regression:   wTradeVolume | quantity | * | 2
+Regression: Record Publish: GEWD .W
+Regression:   wTradePrice | price | * | 0.10
+Regression:   wTradeVolume | quantity | * | 10
+Regression: Record Publish: GOPQ .Y
+Regression:   wTradePrice | price | * | 2.75
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GEWD .X
+Regression:   wTradePrice | price | * | 0.10
+Regression:   wTradeVolume | quantity | * | 76
+Regression: Record Publish: GOPQ .Y
+Regression:   wTradePrice | price | * | 9.70
+Regression:   wTradeVolume | quantity | * | 3
+Regression: Record Publish: GEWD .X
+Regression:   wTradePrice | price | * | 0.11
+Regression:   wTradeVolume | quantity | * | 18
+Regression: Record Publish: GEWD .W
+Regression:   wTradePrice | price | * | 0.11
+Regression:   wTradeVolume | quantity | * | 11
+Regression: Record Publish: GEWD .Y
+Regression:   wTradePrice | price | * | 0.11
+Regression:   wTradeVolume | quantity | * | 11
+Regression: Record Publish: GCZP .N
+Regression:   wTradePrice | price | * | 1.59
+Regression:   wTradeVolume | quantity | * | 5
+Regression: Record Publish: GCZP .N
+Regression:   wTradePrice | price | * | 2.58
+Regression:   wTradeVolume | quantity | * | 10
+Regression: Record Publish: GOPQ .Y
+Regression:   wTradePrice | price | * | 2.75
+Regression:   wTradeVolume | quantity | * | 6
+Regression: Record Publish: GOPP .A
+Regression:   wTradePrice | price | * | 24.00
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GOPQ .Y
+Regression:   wTradePrice | price | * | 2.75
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GOPD .Q
+Regression:   wTradePrice | price | * | 0.14
+Regression:   wTradeVolume | quantity | * | 10
+Regression: Record Publish: GOPP .Y
+Regression:   wTradePrice | price | * | 0.76
+Regression:   wTradeVolume | quantity | * | 2
+Regression: Record Publish: GOPP .Y
+Regression:   wTradePrice | price | * | 0.12
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GOPP .Y
+Regression:   wTradePrice | price | * | 5.02
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GPYP .Q
+Regression:   wTradePrice | price | * | 0.24
+Regression:   wTradeVolume | quantity | * | 4
+Regression: Record Publish: GOPP .Q
+Regression:   wTradePrice | price | * | 5.10
+Regression:   wTradeVolume | quantity | * | 2
+Regression: Record Publish: GOPQ .W
+Regression:   wTradePrice | price | * | 6.50
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GOPP .Y
+Regression:   wTradePrice | price | * | 0.76
+Regression:   wTradeVolume | quantity | * | 4
+Regression: Record Publish: GOPP .Y
+Regression:   wTradePrice | price | * | 0.12
+Regression:   wTradeVolume | quantity | * | 2
+Regression: Record Publish: GOPP .Y
+Regression:   wTradePrice | price | * | 5.02
+Regression:   wTradeVolume | quantity | * | 2
+Regression: Record Publish: GOPP .Q
+Regression:   wTradePrice | price | * | 0.10
+Regression:   wTradeVolume | quantity | * | 2
+Regression: Record Publish: GOPP .B
+Regression:   wTradePrice | price | * | 0.75
+Regression:   wTradeVolume | quantity | * | 4
+Regression: Record Publish: GPYP .W
+Regression:   wTradePrice | price | * | 0.24
+Regression:   wTradeVolume | quantity | * | 10
+Regression: Record Publish: GEWQ .A
+Regression:   wTradePrice | price | * | 0.66
+Regression:   wTradeVolume | quantity | * | 4
+Regression: Record Publish: GOPE .W
+Regression:   wTradePrice | price | * | 20.00
+Regression:   wTradeVolume | quantity | * | 6
+Regression: Record Publish: GOPE .W
+Regression:   wTradePrice | price | * | 20.00
+Regression:   wTradeVolume | quantity | * | 4
+Regression: Record Publish: GEWU .Y
+Regression:   wTradePrice | price | * | 1.38
+Regression:   wTradeVolume | quantity | * | 20
+Regression: Record Publish: GEWI .Y
+Regression:   wTradePrice | price | * | 1.21
+Regression:   wTradeVolume | quantity | * | 20
+Regression: Record Publish: GMUE .A
+Regression:   wTradePrice | price | * | 0.65
+Regression:   wTradeVolume | quantity | * | 2
+Regression: Record Publish: GOPD .W
+Regression:   wTradePrice | price | * | 0.05
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GPYP .X
+Regression:   wTradePrice | price | * | 0.24
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GOPI .W
+Regression:   wTradePrice | price | * | 26.80
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GOPD .B
+Regression:   wTradePrice | price | * | 0.15
+Regression:   wTradeVolume | quantity | * | 9
+Regression: Record Publish: GOPD .B
+Regression:   wTradePrice | price | * | 0.15
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GOPP .A
+Regression:   wTradePrice | price | * | 0.70
+Regression:   wTradeVolume | quantity | * | 4
+Regression: Record Publish: GPYQ .X
+Regression:   wTradePrice | price | * | 2.16
+Regression:   wTradeVolume | quantity | * | 5
+Regression: Record Publish: GOPD .A
+Regression:   wTradePrice | price | * | 16.00
+Regression:   wTradeVolume | quantity | * | 2
+Regression: Record Publish: GED .W
+Regression:   wTradePrice | price | * | 0.01
+Regression:   wTradeVolume | quantity | * | 6
+Regression: Record Publish: GOPD .Q
+Regression:   wTradePrice | price | * | 6.97
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GEE .X
+Regression:   wTradePrice | price | * | 0.25
+Regression:   wTradeVolume | quantity | * | 50
+Regression: Record Publish: GEWD .Y
+Regression:   wTradePrice | price | * | 0.12
+Regression:   wTradeVolume | quantity | * | 14
+Regression: Record Publish: GOPQ .W
+Regression:   wTradePrice | price | * | 18.20
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GQRG .Y
+Regression:   wTradePrice | price | * | 1.50
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GPYE .Y
+Regression:   wTradePrice | price | * | 4.50
+Regression:   wTradeVolume | quantity | * | 5
+Regression: Record Publish: GEWD .N
+Regression:   wTradePrice | price | * | 0.96
+Regression:   wTradeVolume | quantity | * | 10
+Regression: Record Publish: GEWD .W
+Regression:   wTradePrice | price | * | 0.11
+Regression:   wTradeVolume | quantity | * | 35
+Regression: Record Publish: GOPD .A
+Regression:   wTradePrice | price | * | 1.05
+Regression:   wTradeVolume | quantity | * | 10
+Regression: Record Publish: GMEE .A
+Regression:   wTradePrice | price | * | 2.55
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GOPI .Y
+Regression:   wTradePrice | price | * | 27.30
+Regression:   wTradeVolume | quantity | * | 3
+Regression: Record Publish: GNKD .Y
+Regression:   wTradePrice | price | * | 0.20
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GDXQ .A
+Regression:   wTradePrice | price | * | 0.74
+Regression:   wTradeVolume | quantity | * | 6
+Regression: Record Publish: GDXQ .A
+Regression:   wTradePrice | price | * | 0.74
+Regression:   wTradeVolume | quantity | * | 4
+Regression: Record Publish: GOPE .X
+Regression:   wTradePrice | price | * | 7.90
+Regression:   wTradeVolume | quantity | * | 4
+Regression: Record Publish: GEWP .N
+Regression:   wTradePrice | price | * | 0.16
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GEWU .X
+Regression:   wTradePrice | price | * | 0.17
+Regression:   wTradeVolume | quantity | * | 161
+Regression: Record Publish: GEWU .N
+Regression:   wTradePrice | price | * | 0.17
+Regression:   wTradeVolume | quantity | * | 26
+Regression: Record Publish: GEWU .N
+Regression:   wTradePrice | price | * | 0.17
+Regression:   wTradeVolume | quantity | * | 9
+Regression: Record Publish: GOPP .Q
+Regression:   wTradePrice | price | * | 0.15
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GOPD .A
+Regression:   wTradePrice | price | * | 16.60
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GOPF .A
+Regression:   wTradePrice | price | * | 9.60
+Regression:   wTradeVolume | quantity | * | 5
+Regression: Record Publish: GCIE .Y
+Regression:   wTradePrice | price | * | 1.00
+Regression:   wTradeVolume | quantity | * | 25
+Regression: Record Publish: GOPE .X
+Regression:   wTradePrice | price | * | 20.30
+Regression:   wTradeVolume | quantity | * | 5
+Regression: Record Publish: GOPI .W
+Regression:   wTradePrice | price | * | 36.20
+Regression:   wTradeVolume | quantity | * | 10
+Regression: Record Publish: GPYQ .Q
+Regression:   wTradePrice | price | * | 5.38
+Regression:   wTradeVolume | quantity | * | 1
+Regression: Record Publish: GEWE .W
+Regression:   wTradePrice | price | * | 0.59
+Regression:   wTradeVolume | quantity | * | 10

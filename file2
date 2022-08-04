@@ -1,0 +1,11 @@
+192.168.1.250	sqlsrv2010.citi.local   00:20:3c:14:08:5b
+192.168.1.200    employees.citi.local    employees	00:20:3c:11:ab:32	
+192.168.5.32    www.intranet.citi.local intranet        00:10:4d:32:ce:22	
+192.168.1.1	core1.citi.local	00:15:ab:10:01:ba
+192.168.5.1     route1.citi.local	00:15:ab:20:03:0a
+192.168.5.20	feed1.citi.local	00:10:3e:4f:ab:23    
+192.168.1.20	feed2.citi.local	00:10:3e:3e:03:23	
+192.168.5.10	cluster1.citi.local	00:20:4d:13:12:a0
+192.168.1.30	ws01-abc.cit.local	00:13:ef:12:0e:3f
+192.168.5.23    ws02-3ef.cit.local	00:12:33:aa:3e:34	
+
